@@ -107,7 +107,7 @@ export default function Message({
               <div className="feedback ch-my-5 fade-in-bottom">
                 <div className="ch-w-full ch-block ch-h-px ch-bg-bg_light ch-my-2" />
                 <div className="ch-font-normal ch-text-sm">
-                  was this response helpful?
+                  Apakah jawaban ini membantu?
                 </div>
                 <ReactToggle.Root
                   onValueChange={(v) => {

@@ -3,7 +3,7 @@ import css from "./index.css?inline";
 import App from "./App.tsx";
 
 const initilizeChatBot = ({
-  initialFirstMessage = "How Can i Help ?",
+  initialFirstMessage = "Hai apa yang bisa kami bantu?",
   token,
   initiatorId
 }: {

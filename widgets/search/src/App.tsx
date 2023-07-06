@@ -216,7 +216,7 @@ export default function App({
                           maxRows={10}
                           className="ch-w-full focus:ch-outline-none ch-leading-7 placeholder:ch-leading-loose ch-text-accent placeholder:ch-text-sm ch-bg-transparent ch-text-lg ch-font-normal ch-p-1 ch-align-middle ch-min-h-full ch-outline-none"
                           type="text"
-                          placeholder="ask any question?"
+                          placeholder="tanyakan sesuatu..."
                         />
                       </div>
                       <button
@@ -246,7 +246,7 @@ export default function App({
             </div>
             <div>
                 <div className="powered-by">
-                  Powered by <a className="ch-text-accent" href="https://openchat.so">OpenChat</a>
+                  Powered by CORE BCA Finance Team
                 </div>
             </div>
           </Dialog.Content>
