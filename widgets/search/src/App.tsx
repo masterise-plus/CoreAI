@@ -175,7 +175,7 @@ export default function App({
                         color="var(--color-primary)"
                       />
                       <p className="ch-text-xs ch-font-normal">
-                        Scanning through the available resources. Just a moment, please!
+                       Scan dulu yaaa...
                       </p>
                     </div>
                   )}
